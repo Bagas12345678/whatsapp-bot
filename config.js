@@ -54,16 +54,16 @@ global.APIKeys = { // APIKey in here
 
 
 // Sticker WM
-global.packname = '@ cuss.aa'
-global.author = '@ _sekhaa'
+global.packname = '@ BagasBotz'
+global.author = '@ BagasBotz'
 
-global.wm = 'chika aka sekha'
+global.wm = 'BagasBot'
 global.wait = '⏳ tunggu permintaan kamu sedang di proses...'
 global.eror = '× Upss Erorr silahkan lapor owner'
 global.benar = '✓'
 global.salah = '×'
 global.dikit = 'hampir benar'
-global.footer = '© sekha'
+global.footer = '© Bagas'
 global.lw = 'https://reysekhaa.herokuapp.com/api/textpro/greenhoror?apikey=apirey&text='
 global.reyganz= 'https://reysekhaa.herokuapp.com/api/wallpaper/ukhty?apikey='
 
